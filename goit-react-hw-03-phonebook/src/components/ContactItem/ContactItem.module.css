@@ -1,0 +1,27 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  background-color: #fafafa;
+}
+
+.item p {
+  margin: 0;
+  font-size: 14px;
+  color: #333;
+}
+
+button {
+  padding: 5px 8px;
+  background-color: #ff4d4f;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #d9363e;
+}
